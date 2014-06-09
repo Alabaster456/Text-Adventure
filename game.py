@@ -1,4 +1,4 @@
-#VARIABLES 
+#VARIABLE AREA 
 userHP = 50 #user's health
 dead = False #Checks to see if the user is alive or not.
 inventory = ["", "", ""] #Items the user can hold (could expand the list)
