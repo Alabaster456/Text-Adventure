@@ -1,10 +1,10 @@
 #VARIABLES 
-"""This is just a startup. The list will get bigger!"""
 userHP = 50 #user's health
 dead = False #Checks to see if the user is alive or not.
 inventory = ["", "", ""] #Items the user can hold (could expand the list)
 
 
+#Start of the game - put it in the console to see how it looks! 
 print("-----------------------------")
 print("|| Welcome to Pyth-Adventure!  ||") 
 print("-----------------------------")
